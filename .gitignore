@@ -1,0 +1,22 @@
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Local configuration
+local.properties
+
+# Android Studio
+*.iml
+.idea/
+*.hprof
+
+# Screenshots demo (không nộp)
+/demo_*.png
+/ui_*.png
+*.png
+!bao-cao-hinh-anh/*.png
+
+# OS
+.DS_Store
+Thumbs.db
